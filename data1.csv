@@ -1,4 +1,4 @@
-﻿Regions Code,Regions,Household composition (6 categories) Code,Household composition (6 categories),Ethnic group (8 categories) Code,Ethnic group (8 categories),Industry (current) (9 categories) Code,Industry (current) (9 categories),Observation
+﻿Regions Code,Regions,Household composition Code,Household composition,Ethnic group Code,Ethnic group,Industry Code,Industry,Observation
 E12000001,North East,1,One-person household,1,"Asian, Asian British or Asian Welsh",1,"A, B, D, E Agriculture, energy and water",27
 E12000001,North East,1,One-person household,1,"Asian, Asian British or Asian Welsh",2,C Manufacturing,197
 E12000001,North East,1,One-person household,1,"Asian, Asian British or Asian Welsh",3,F Construction,78
@@ -2798,4 +2798,5 @@ W92000004,Wales,5,Other household types,7,Other ethnic group,4,"G, I Distributio
 W92000004,Wales,5,Other household types,7,Other ethnic group,5,"H, J Transport and communication",62
 W92000004,Wales,5,Other household types,7,Other ethnic group,6,"K, L, M, N Financial, real estate, professional and administrative activities",108
 W92000004,Wales,5,Other household types,7,Other ethnic group,7,"O, P, Q Public administration, education and health",183
+
 W92000004,Wales,5,Other household types,7,Other ethnic group,8,"R, S, T, U Other",26
